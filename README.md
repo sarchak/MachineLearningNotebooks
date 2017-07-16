@@ -5,4 +5,4 @@
       * Feature Union
       * Metrics useful for classification.
 
-Do you have a problem which can be solved with Machine Learning / AI?  [https://goo.gl/forms/lRQCP0EZcnd5OUGx2](Get in touch)
+Do you have a problem which can be solved with Machine Learning / AI?  [Get in touch](https://goo.gl/forms/lRQCP0EZcnd5OUGx2)
